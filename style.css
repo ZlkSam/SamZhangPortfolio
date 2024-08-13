@@ -318,7 +318,6 @@ section {
 
 .section__pic-container img {
   height: 100%;
-  width: 100%;
   object-fit: cover; /* This ensures the image covers the entire container */
   border-radius: 50%; /* This ensures the image inside the container is rounded */
 }
@@ -334,7 +333,6 @@ section {
 
 .section__pic-container-square img {
   height: 100%;
-  width: 100%;
   object-fit: cover; /* This ensures the image covers the entire container */
   border-radius: 15px; /* This ensures the image inside the container has rounded corners */
 }
