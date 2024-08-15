@@ -94,7 +94,7 @@ a:hover {
 }
 
 .menu-links {
-  position: center;
+  position: left;
   top: 80%;
   right: 0;
   background-color: rgb(190, 185, 185);
@@ -106,7 +106,7 @@ a:hover {
 
 .menu-links a {
   display: block;
-  padding: 10px;
+  padding: 15px;
   text-align: center;
   font-size: 1.5rem;
   color: black;
